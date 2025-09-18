@@ -1,0 +1,13 @@
+# Ignorar dependencias y archivos de entorno
+node_modules/
+.vs/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Configuración de sistema
+.DS_Store
+Thumbs.db
